@@ -1,4 +1,4 @@
-# 
+# Código abierto Ollama temas. Con modelos híbridos de IA y inferencia en tiempo real — optimizado para el máximo rendimiento y eficiencia.
 
 
 
